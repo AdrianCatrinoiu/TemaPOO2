@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1587585387 source:c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\main.cpp
+	<iostream>
+	"Vector.h"
+	"Matrice.h"
+	"Lista.h"
+	"Graf.h"
+	"Graf_Orientat.h"
+	"Graf_Neorientat.h"
+	<fstream>
+
+1587585051 source:c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\src\graf.cpp
+	"Graf.h"
+	<iostream>
+
+1587585096 c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\include\graf.h
+	<iostream>
+	<ostream>
+
+1587584875 source:c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\src\graf_neorientat.cpp
+	<istream>
+	<ostream>
+	<iostream>
+	"Lista.h"
+	"Graf_Neorientat.h"
+
+1587585096 c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\include\graf_neorientat.h
+	"Graf.h"
+	"Lista.h"
+
+1587585383 source:c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\src\graf_orientat.cpp
+	"Graf_Orientat.h"
+
+1587585382 c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\include\graf_orientat.h
+	"Matrice.h"
+	"Graf.h"
+	<iostream>
+
+1587582606 source:c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\src\lista.cpp
+	"Lista.h"
+	"Vector.h"
+	<iostream>
+
+1587582621 c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\include\lista.h
+	"Vector.h"
+
+1587581811 source:c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\src\matrice.cpp
+	"Matrice.h"
+	<iostream>
+
+1587583445 c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\include\matrice.h
+	<iostream>
+	<ostream>
+
+1587580000 source:c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\src\vector.cpp
+	"Vector.h"
+
+1587582613 c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\include\vector.h
+	<iostream>
+	<ostream>
+
+1587545229 source:c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\src\my_exceptions.cpp
+	"my_exceptions.h"
+
+1587545213 c:\users\adrian\desktop\tema poo 2\catrinoiu_adrian_133_tema2_12\include\my_exceptions.h
+	<iostream>
+	<exception>
+	<string>
+	<bitset>
+
